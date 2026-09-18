@@ -1,0 +1,15 @@
+# Private and generated files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.seed
+*.secret
+*.tmp
+.next/
+out/
+cache/
+broadcast/
+node_modules/
+.DS_Store
